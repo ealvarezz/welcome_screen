@@ -1,0 +1,21 @@
+{
+    "NumOfLines": 16,
+    "Mac": [
+	  "\n#Ngre#                 -/+:.",
+	  "#Ngre#                :++++.",
+	  "#Ngre#               /+++/.",
+	  "#Ngre#       .:-::- .+/:-``.::-",
+	  "#Ngre#    .:/++++++/::::/++++++/:`",
+	  "#Nyel#  .:///////////////////////:`",
+	  "#Nyel#  ////////////////////////`",
+	  "#Nmag# -+++++++++++++++++++++++`",
+	  "#Nmag# /++++++++++++++++++++++/",
+	  "#Nred# /sssssssssssssssssssssss.",
+	  "#Nred# :ssssssssssssssssssssssss-",
+	  "#Bred#  osssssssssssssssssssssssso/`",
+	  "#Bred#  `syyyyyyyyyyyyyyyyyyyyyyyy+`",
+	  "#Nblu#   `ossssssssssssssssssssss/",
+	  "#Nblu#     :ooooooooooooooooooo+.",
+	  "#Nblu#      `:+oo+/:-..-:/+o+/-\n#Cend#"
+    ]
+}
